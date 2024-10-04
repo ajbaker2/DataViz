@@ -6,6 +6,7 @@ The goal of this project is to explore the levels of income inequality accross t
 
 The motivation of this idea is we have seen an increase in income inequality since the mid to late 20th century without any signs of stopping. During this time, we have also experienced numerous versions of tax cuts, whether for everyone or just those at the top. I would like to look at how income levels evolve as these policies are instituted in hopes of shedding light on how tax policy can drive inequality.
 
+Lastly, if possible, I think it would be interesting to compare the U.S. to other developed countries and their levels of inequality as well as their tax structures.
 
 # Data Sources
 ## Source 1
@@ -45,3 +46,7 @@ Titled "Personal Income by County, Metro, and Other Areas", this source contains
 For example, the Annual personal income by county data has a dataset for each state, and within this there are statistics for each county regarding income levels and population. There is information like this for each county in the US, and the data covers 1969 to modern day in time series format.
 
 # List of Questions
+
+1) I think I would just like to know if this topic is refined enough for the purposes of this course. Is this something you think is possible in one quarter, or is there instead a way I should exapand this topic?
+
+2) Are there any major data sources that I am missing and should be aware of?
