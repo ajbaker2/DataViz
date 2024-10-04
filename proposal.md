@@ -7,8 +7,6 @@ The goal of this project is to explore the levels of income inequality accross t
 The motivation of this idea is we have seen an increase in income inequality since the mid to late 20th century without any signs of stopping. During this time, we have also experienced numerous versions of tax cuts, whether for everyone or just those at the top. I would like to look at how income levels evolve as these policies are instituted in hopes of shedding light on how tax policy can drive inequality.
 
 
-
-
 # Data Sources
 ## Source 1
 ### URL
