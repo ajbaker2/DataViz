@@ -4,7 +4,7 @@ Andrew Baker
 # Description
 The goal of this project is to explore the levels of income inequality accross the United States and this issue's relationship to the U.S.'s tax structure. I would like to look at how this inequality has varied in the U.S. as a whole over the past 50-60 years, as well as how these changes align with alterations made to federal income tax levels in hopes of finding evidence of tax cuts leading to a greater tax burden on lower income levels. Moreover, I would also like to look at how income inequality varies state by state and see if varying state/local income tax levels are playing a role this variation.
 
-The motivation of this idea is we have seen an increase in income inequality since the mid to late 20th century without any signs of stopping. During this time, we have also experienced numerous versions of tax cuts, whether for everyone or just those at the top. I would like to look at how income levels evolve as these policies are instituted in hopes of shedding light on how tax policy can drive inequality.
+The motivation of this idea is we have seen an increase in income inequality since the mid to late 20th century without any signs of stopping. During this time, we have also experienced numerous versions of tax cuts, whether for everyone or just those at the top. I would like to look at how income levels evolve as these policies are instituted in hopes of shedding light on how tax policy can drive inequality. This is especially relevant to the present, for this inequality coupled with high price levels are causing many American families to struggle.
 
 Lastly, if possible, I think it would be interesting to compare the U.S. to other developed countries and their levels of inequality as well as their tax structures.
 
