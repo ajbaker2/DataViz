@@ -12,7 +12,7 @@ By exploring demographic patterns within the highest income brackets, the analys
 
 ### Final Output
 
-here
+[View the full project PDF](./static_final/Are%20We%20Better%20Off_%20FINAL.pdf)
 
 ### Data Source
 
