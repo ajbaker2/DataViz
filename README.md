@@ -11,7 +11,7 @@ This project seeks to illuminate the complexities of income inequality in the Un
 By exploring demographic patterns within the highest income brackets, the analysis uncovers systemic biases related to race, ethnicity, and gender, shedding light on who benefits most in today’s economic climate. Ultimately, this project underscores the multifaceted nature of income inequality, providing a comprehensive perspective on who is truly “better off” in America, while prompting considerations for more equitable economic policies.
 
 ### Final Output
-
+![Project Screenshot](static_final/Are%20We%20Better%20Off_%20FINAL.png)
 [View the full project PDF](./static_final/Are%20We%20Better%20Off_%20FINAL.pdf)
 
 ### Data Source
