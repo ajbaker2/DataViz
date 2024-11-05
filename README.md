@@ -26,4 +26,6 @@ Titled "Income Distributions and Dynamics in America", this set was found throug
 #### Estimates
 There are a handful of datasets from this research (pctl_of_inc, prop_share, inc_share, inc_change_distributions, transition_matrix), and has information on general demographics such as person/household level, year, geo_var, for a total of around 10 columns. Moreover, each of the above datasets has their own unique columns relevant to the topic at hand, giving a grand total of around 25 to 30 columns. Lastly, the two larger of these datasets (inc_change_distributions and transition_matrix) contain around 2 million rows.
 
+#### Usage
+The main two datasets which were used for this project were pctl_of_inc and prop_share. The former was used for all work regarding percentile analysis, and the latter was used for exploring the demographics of the upper percentiles.
 
